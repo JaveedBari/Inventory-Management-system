@@ -14,8 +14,9 @@
 - Find the Top 3 Products?
 - Find the Top 3 customers?
 - Find Product wise Total Stock?
-  
--Dashboard Interaction <a href="https://github.com/JaveedBAri/Inventory-Management-System/blob/main/IMS.png">View Dashboard</a>
+
+## Dashboard 
+-Dashboard Interaction <a href="https://github.com/JaveedBari/Inventory-Management-System/blob/main/IMS.png">View Dashboard</a>
 
 ## Process
 Here are some key points highlighting the features and formulas used in your Inventory Management System:
@@ -24,9 +25,6 @@ Here are some key points highlighting the features and formulas used in your Inv
 •	Used basic sum formulas to aggregate values from different fields for accurate analysis.
 •	Applied Data Validation to ensure correct and consistent data entry across the system.
 •	Incorporated IFERROR to handle errors gracefully, improving the system's robustness.
-
-## Dashboard
-![Dashboard Screenshot](https://github.com/Javeedbari/Inventory-Management-system/blob/main/screenshot.png)
 
 ## Project Insights
 •	Efficient Search Functionality: Implemented VLOOKUP to quickly locate and retrieve relevant data within the inventory records.
