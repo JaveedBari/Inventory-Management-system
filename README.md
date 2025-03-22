@@ -4,6 +4,8 @@
 ## Dataset Used
 - <a href="https://github.com/JaveedBari/Inventory-Management-System.xlsx">Dataset</a>
 
+- <a href="https://github.com/JaveedBari/Users\KHAJA HUSSAIN\OneDrive\Documents\Inventory Management System/blob/main/Inventory%20Management%20System%20.xlsx">Dataset</a>
+
 ## Questions(KPIs)
 - Total Number Of customers
 - Total Products
@@ -17,6 +19,8 @@
 
 ## Dashboard 
 -Dashboard Interaction <a href="https://github.com/JaveedBari/Inventory-Management-System/blob/main/IMS.png">View Dashboard</a>
+
+-Dashboard Interaction <a href="https://github.com/JaveedBari/Inventory Management System/blob/main/IMS%20.png">View Dashboard</a>
 
 ## Process
 Here are some key points highlighting the features and formulas used in your Inventory Management System:
