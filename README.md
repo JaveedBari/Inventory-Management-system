@@ -25,6 +25,9 @@ Here are some key points highlighting the features and formulas used in your Inv
 •	Applied Data Validation to ensure correct and consistent data entry across the system.
 •	Incorporated IFERROR to handle errors gracefully, improving the system's robustness.
 
+## Dashboard
+![Dashboard Screenshot](https://github.com/Javeedbari/Inventory-Management-system/blob/main/screenshot.png)
+
 ## Project Insights
 •	Efficient Search Functionality: Implemented VLOOKUP to quickly locate and retrieve relevant data within the inventory records.
 •	Conditional Summation: Used SUMIF for calculating totals based on specific conditions, enhancing data analysis capabilities.
