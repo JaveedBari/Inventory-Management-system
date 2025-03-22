@@ -2,7 +2,7 @@
 "I developed an Inventory Management System in Excel to efficiently track and organize stock, ensuring accuracy and ease of use for businesses of all sizes."
 
 ## Dataset Used
-- <a href=”https://Github.com/JaveedBari/Inventory-Management-System.xlxs”>Dataset</a>
+- <a href="https://github.com/JaveedBari/Inventory-Management-System.xlsx">Dataset</a>
 
 ## Questions(KPIs)
 - Total Number Of customers
@@ -15,7 +15,7 @@
 - Find the Top 3 customers?
 - Find Product wise Total Stock?
   
--Dashboard Interaction <a href=”https://github.com/JaveedBAri/Inventory-Management-System/blob/main/IMS.png”>View Dashboard</a>
+-Dashboard Interaction <a href="https://github.com/JaveedBAri/Inventory-Management-System/blob/main/IMS.png">View Dashboard</a>
 
 ## Process
 Here are some key points highlighting the features and formulas used in your Inventory Management System:
